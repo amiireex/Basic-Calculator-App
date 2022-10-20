@@ -111,6 +111,12 @@ body {
         padding: 2rem 1rem;
         align-items: flex-end;
     }
+    #calc-input-1, 
+    #calc-input-2,
+    #calc-input-3 {
+        border-radius: none;
+        border: none;
+    }
 }
 
 
